@@ -1,0 +1,2 @@
+# whisperprivacypolicy
+Privacypolicy for whisper
